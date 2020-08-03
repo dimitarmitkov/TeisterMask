@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_07_Dec_2019/01. Model Defition_Skeleton/TeisterMask/TeisterMask.csproj": {}
+  },
+  "projects": {
+    "/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_07_Dec_2019/01. Model Defition_Skeleton/TeisterMask/TeisterMask.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_07_Dec_2019/01. Model Defition_Skeleton/TeisterMask/TeisterMask.csproj",
+        "projectName": "TeisterMask",
+        "projectPath": "/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_07_Dec_2019/01. Model Defition_Skeleton/TeisterMask/TeisterMask.csproj",
+        "packagesPath": "/Users/dimitarmitkov/.nuget/packages/",
+        "outputPath": "/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_07_Dec_2019/01. Model Defition_Skeleton/TeisterMask/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/dimitarmitkov/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

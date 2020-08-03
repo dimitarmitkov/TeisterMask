@@ -1,0 +1,12 @@
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_07_Dec_2019/01. Model Defition_Skeleton/TeisterMask/bin/Debug/netcoreapp2.1/TeisterMask.deps.json
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_07_Dec_2019/01. Model Defition_Skeleton/TeisterMask/bin/Debug/netcoreapp2.1/TeisterMask.runtimeconfig.json
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_07_Dec_2019/01. Model Defition_Skeleton/TeisterMask/bin/Debug/netcoreapp2.1/TeisterMask.runtimeconfig.dev.json
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_07_Dec_2019/01. Model Defition_Skeleton/TeisterMask/bin/Debug/netcoreapp2.1/TeisterMask.dll
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_07_Dec_2019/01. Model Defition_Skeleton/TeisterMask/bin/Debug/netcoreapp2.1/TeisterMask.pdb
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_07_Dec_2019/01. Model Defition_Skeleton/TeisterMask/obj/Debug/netcoreapp2.1/TeisterMask.csprojAssemblyReference.cache
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_07_Dec_2019/01. Model Defition_Skeleton/TeisterMask/obj/Debug/netcoreapp2.1/TeisterMask.AssemblyInfoInputs.cache
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_07_Dec_2019/01. Model Defition_Skeleton/TeisterMask/obj/Debug/netcoreapp2.1/TeisterMask.AssemblyInfo.cs
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_07_Dec_2019/01. Model Defition_Skeleton/TeisterMask/obj/Debug/netcoreapp2.1/TeisterMask.csproj.CoreCompileInputs.cache
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_07_Dec_2019/01. Model Defition_Skeleton/TeisterMask/obj/Debug/netcoreapp2.1/TeisterMask.dll
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_07_Dec_2019/01. Model Defition_Skeleton/TeisterMask/obj/Debug/netcoreapp2.1/TeisterMask.pdb
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/Exam_Prep_Part_2/ExamPrep_DB_Advanced_Exam_07_Dec_2019/01. Model Defition_Skeleton/TeisterMask/obj/Debug/netcoreapp2.1/TeisterMask.genruntimeconfig.cache
