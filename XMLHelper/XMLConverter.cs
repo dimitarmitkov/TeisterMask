@@ -2,6 +2,7 @@
 {
     using System.IO;
     using System.Text;
+    using System.Xml;
     using System.Xml.Serialization;
 
     public class XMLConverter
@@ -39,6 +40,10 @@
             string xmlRootAttributeName)
         {
             XmlSerializer serializer = new XmlSerializer(typeof(T[]), new XmlRootAttribute(xmlRootAttributeName));
+
+            XmlReaderSettings settings = new XmlReaderSettings();
+
+            settings.CheckCharacters = false;
 
             var dataTransferObjects = serializer.Deserialize(new StringReader(xmlObjectsAsString)) as T[];
 

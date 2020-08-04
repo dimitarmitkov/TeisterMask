@@ -21,7 +21,7 @@
         [EmailAddress]
         public string Email { get; set; }
 
-        [RegularExpression(@"^[\d]{3}-[\d]{3}-[\d]{4}+$")]
+        [RegularExpression(@"^[\d]{3}-[\d]{3}-[\d]{4}$")]
         public string Phone { get; set; }
 
         public virtual ICollection<EmployeeTask> EmployeesTasks { get; set; }
